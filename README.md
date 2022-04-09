@@ -2,11 +2,11 @@
 
 ## 機能
 
- * cocoaのログから感染者との接触ログを表示する
+* cocoaのログから感染者との接触ログを表示する
 
 ## 動作条件
 
- * Andoroid版のcocoaのログのみ解析可能
+* Andoroid版のcocoaのログのみ解析可能
 
 ## 使い方
 
@@ -21,8 +21,8 @@ CANONICAL DATETIME 2022/03/24 18:46:01 - 00:00:00,00:05:00,00:05:00
 RAW DATETIME       2022/03/31 03:21:08 - 5 days- 00:00:00,00:00:00,00:05:00
 CANONICAL DATETIME 2022/03/25 18:21:08 - 00:00:00,00:00:00,00:05:00
 ```
-RAW DATETIME ： ログ内の接触日時（UTC)
-CANONICAL DATETIME　： 修正された接触日時（日本時刻）
+* RAW DATETIME ： ログ内の接触日時（UTC)
+* CANONICAL DATETIME　： 修正された接触日時（日本時刻）
 
 00:00:00,　00:05:00,　00:05:00　
 は左から
